@@ -1,0 +1,23 @@
+body,html {
+    background-color: rgb(195, 145, 5);
+}
+
+figcaption {
+    color: darkred
+}
+
+h1 {
+    color: darkred
+}
+
+p {
+    color: darkred;
+}
+
+    .grey-copy{
+        color: grey
+        }
+
+        #content-wrapper {
+            width: 575px;
+        }
